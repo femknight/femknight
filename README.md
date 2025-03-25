@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @femknight V Em
-- 👀 I’m interested in learning all the things. Did a philosophy undergrad a million years ago, then a sociology MA and started a sociology PHD which confirmed I needed to learn how to code (data; data everywhere).
-- 🌱 I’m currently learning html, css, ruby, rails.
+- 👀 I’m interested in learning all the things. Did an economics undergrad a million years ago, then a sociology MA and started a sociology PHD which confirmed I needed to learn how to code (data; data everywhere).
+- 🌱 I’m currently working in Vue.js, Python, Coldfusion.
 - 💞️ I’m looking to collaborate on projects that have to do with democratizing knowledge production.
 - 📫 you can email me here: emiliefiliondonato.1@gmail.com
 
